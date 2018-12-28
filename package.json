@@ -1,5 +1,5 @@
 {
-  "name": "react-clickout",
+  "name": "@ordermentum/react-clickout",
   "version": "2.4.3",
   "main": "dist/index.js",
   "typings": "dist/src/index.d.ts",
